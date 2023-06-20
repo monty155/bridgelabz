@@ -3,14 +3,14 @@ package practiceProblemday1;
 public class DefaultValue {
 
 
-     byte a;
+      byte a;
       short b;
       int c;
-     long d;
-     float e;
-     double f;
-     char  g;
-     boolean b1;
+      long d;
+      float e;
+      double f;
+      char  g;
+      boolean b1;
 
     public static void main(String[] args) {
         DefaultValue obj1 = new DefaultValue();
