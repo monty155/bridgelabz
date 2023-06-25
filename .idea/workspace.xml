@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6f476cc4-3946-4a81-a95c-fc1bcd231011" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceProblemday1/DefaultValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceProblemday1/DefaultValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceProblemsDay2/Sum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practiceProblemsDay2/DisplayUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceProblemsDay2/DisplayUnit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,20 +45,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrintLargestElements">
-    <configuration name="DefaultValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceProblemday1.DefaultValue" />
-      <module name="bridgelabz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceProblemday1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Uc3">
     <configuration name="ElementAnEvenPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceProblemDay3.ElementAnEvenPosition" />
       <module name="bridgelabz" />
@@ -86,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuadraticEquation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceProblemsDay2.QuadraticEquation" />
+    <configuration name="PrintMonthname" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practiceProblemsDay2.PrintMonthname" />
       <module name="bridgelabz" />
       <extension name="coverage">
         <pattern>
@@ -99,12 +85,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringSeason" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceProblemsDay2.SpringSeason" />
+    <configuration name="Uc1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employeeWages.Uc1" />
       <module name="bridgelabz" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practiceProblemsDay2.*" />
+          <option name="PATTERN" value="employeeWages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uc3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="employeeWages.Uc3" />
+      <module name="bridgelabz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="employeeWages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uc3" />
+        <item itemvalue="Application.Uc1" />
+        <item itemvalue="Application.PrintMonthname" />
         <item itemvalue="Application.PrintLargestElements" />
         <item itemvalue="Application.ElementAnEvenPosition" />
-        <item itemvalue="Application.SpringSeason" />
-        <item itemvalue="Application.QuadraticEquation" />
-        <item itemvalue="Application.DefaultValue" />
       </list>
     </recent_temporary>
   </component>
