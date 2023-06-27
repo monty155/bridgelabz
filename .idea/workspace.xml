@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6f476cc4-3946-4a81-a95c-fc1bcd231011" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/practiceProblemsDay2/DisplayUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practiceProblemsDay2/DisplayUnit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,20 +44,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Uc3">
-    <configuration name="ElementAnEvenPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceProblemDay3.ElementAnEvenPosition" />
-      <module name="bridgelabz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practiceProblemDay3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Uc5">
     <configuration name="PrintLargestElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practiceProblemDay3.PrintLargestElements" />
       <module name="bridgelabz" />
@@ -111,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Uc5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnakeAndLadder.Uc5" />
+      <module name="bridgelabz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SnakeAndLadder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Uc5" />
         <item itemvalue="Application.Uc3" />
         <item itemvalue="Application.Uc1" />
         <item itemvalue="Application.PrintMonthname" />
         <item itemvalue="Application.PrintLargestElements" />
-        <item itemvalue="Application.ElementAnEvenPosition" />
       </list>
     </recent_temporary>
   </component>
