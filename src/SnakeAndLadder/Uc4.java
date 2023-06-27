@@ -2,7 +2,7 @@ package SnakeAndLadder;
 
 public class Uc4 {
 
-}public static void main(String[] args) {
+    public static void main(String[] args) {
     int currentPosition = 0;
     int winningSpot = 100;
 
