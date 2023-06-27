@@ -1,6 +1,4 @@
-package day6PracticeProblem;
-
-import java.util.Scanner;
+package day5PracticeProblem;
 
 //public class CoinFlip {
 //
